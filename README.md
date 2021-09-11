@@ -5,7 +5,7 @@ It's probably best to just not think about it too much. It's a fairly involved e
 
 ## What I Do
 
-I'm currently working to get my first business off the ground and also act as the Chair of the Website Committee for Oklahoma Women in Technology. I want to help make the web a better place for all users. The web has a long way to go for that to happen, and I want to be a part of making it happen.
+I'm currently working to get my first business off the ground and also act as the Chair of the Website Committee for Oklahoma Women in Technology. I want to help make the web a better place for all users. The web has a long way to go for that to happen, and I want to be a part of it.
 
 I really like web development. I find it fascinating and even a bit magical. My main focus has been on semantic structure in order to positively influence accessibility and SEO, but now I *really* want to learn how to build my own cool stuff and become a full-fledged web developer.
 
